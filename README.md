@@ -1,4 +1,5 @@
 # SMART-POWER-PLUG
+What??
 We propose to develop an android application and a prototype using ardunio and some bluetooth sensors. The system is aimed to help people to get an ease. Our system is a standalone system that can be installed with any of the power plug which are installed in our home & A plug-in device that you can attach to your appliances and plug into wall outlets. It allows your phone to act as a remote to turn your appliances on and off.
 
 -------- WORKING ---------
@@ -30,12 +31,14 @@ BENEFITS OF USING “SMART POWER PLUG “
 
 
 TECHNOLOGY USED
-USER INTERFACE - HARDWARE - CODE -
-MIT APP INVENTOR ARDUINO & SENSORS ARDUNIO IDE
+USER INTERFACE -  MIT APP INVENTOR 
+HARDWARE -        ARDUINO & SENSORS
+CODE -            ARDUNIO IDE
 
 
 
 --- USE OF REPO---
+
 1. CONNECT THE DEVICES WITH THE HELP OF  CIRCUIT DIAGRAM
 2. UPLOAD THE CODE IN ARDUINO BOARD (Rtc.ino)
 3. CREATE THE APP USING ABOVE CODE IN MIT APP INVENTOR.
