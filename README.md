@@ -23,9 +23,10 @@ WE CAN BASICALLY USE THIS DEVICE IN HOMES AND ALSO IN SELF CHARGING STATIONS WHE
 
 
 BENEFITS OF USING “SMART POWER PLUG “
-• Thesystemcanbeusedfrom anywhere (depending upon the range of bluetooth sensors used )by the user.
-• Savestimeandreduceshuman intervention.
-• Thesystemisflexibleandsecuredto be used.
+• The system can be used from anywhere (depending upon the range of bluetooth sensors used )by the user.
+• Saves time and reduces human intervention.
+• The system is flexible and secured to be used.
+
 
 
 TECHNOLOGY USED
