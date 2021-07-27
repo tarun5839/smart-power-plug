@@ -1,4 +1,4 @@
-# smart-power-plug
+# SMART-POWER-PLUG
 We propose to develop an android application and a prototype using ardunio and some bluetooth sensors. The system is aimed to help people to get an ease. Our system is a standalone system that can be installed with any of the power plug which are installed in our home & A plug-in device that you can attach to your appliances and plug into wall outlets. It allows your phone to act as a remote to turn your appliances on and off.
 
 -------- WORKING ---------
